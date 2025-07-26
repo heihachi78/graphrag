@@ -1,0 +1,1117 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="ROMEO" />
+    <node id="MONTAGUE" />
+    <node id="LADY MONTAGUE" />
+    <node id="BALTHASAR" />
+    <node id="MERCUTIO" />
+    <node id="FRIAR LAWRENCE" />
+    <node id="APOTHECARY" />
+    <node id="JULIET" />
+    <node id="CAPULET" />
+    <node id="LADY CAPULET" />
+    <node id="NURSE" />
+    <node id="PARIS" />
+    <node id="WILLIAM SHAKESPEARE" />
+    <node id="FOLGER SHAKESPEARE LIBRARY" />
+    <node id="BARBARA A. MOWAT" />
+    <node id="PAUL WERSTINE" />
+    <node id="MICHAEL POSTON" />
+    <node id="REBECCA NILES" />
+    <node id="VERONA" />
+    <node id="ESCALUS" />
+    <node id="BENVOLIO" />
+    <node id="ABRAM" />
+    <node id="SAMPSON" />
+    <node id="GREGORY" />
+    <node id="TYBALT" />
+    <node id="PETER" />
+    <node id="PETRUCHIO" />
+    <node id="FRIAR JOHN" />
+    <node id="CAPULET HOUSEHOLD" />
+    <node id="MONTAGUE HOUSEHOLD" />
+    <node id="PRINCE ESCALUS" />
+    <node id="FREE-TOWN" />
+    <node id="SYCAMORE GROVE" />
+    <node id="AURORA" />
+    <node id="SERVINGMAN" />
+    <node id="ROSALINE" />
+    <node id="CAPULET'S HOUSE" />
+    <node id="COUNTY PARIS" />
+    <node id="MARTINO" />
+    <node id="ANSELME" />
+    <node id="VITRUVIO" />
+    <node id="PLACENTIO" />
+    <node id="VALENTINE" />
+    <node id="LIVIA" />
+    <node id="VALENTIO" />
+    <node id="LUCIO" />
+    <node id="HELENA" />
+    <node id="SIGNIOR MARTINO" />
+    <node id="COUNTY ANSELME" />
+    <node id="LADY WIDOW OF VITRUVIO" />
+    <node id="SIGNIOR PLACENTIO" />
+    <node id="SIGNIOR VALENTIO" />
+    <node id="MINE UNCLE CAPULET" />
+    <node id="UTIO" />
+    <node id="MANTUA" />
+    <node id="DOVEHOUSE WALL" />
+    <node id="SUSAN" />
+    <node id="LADYBIRD" />
+    <node id="LAMMASTIDE" />
+    <node id="LAMMAS EVE" />
+    <node id="EARTHQUAKE" />
+    <node id="FEAST" />
+    <node id="COUNTY" />
+    <node id="MASKERS" />
+    <node id="TORCHBEARERS" />
+    <node id="BOY WITH A DRUM" />
+    <node id="QUEEN MAB" />
+    <node id="FIRST SERVINGMAN" />
+    <node id="SECOND SERVINGMAN" />
+    <node id="SUSAN GRIND" />
+    <node id="POTPAN" />
+    <node id="PORTER" />
+    <node id="LUCENTIO" />
+    <node id="PENTECOST" />
+    <node id="NELL" />
+    <node id="ANTHONY" />
+    <node id="SUSAN GRINDSTONE" />
+    <node id="THIRD SERVINGMAN" />
+    <node id="CHORUS" />
+    <node id="TIBERIO" />
+    <node id="VENUS" />
+    <node id="ABRAHAM CUPID" />
+    <node id="KING COPHETUA" />
+    <node id="MEDLAR TREE" />
+    <node id="EAST" />
+    <node id="WHITE-UPTURNED WOND'RING EYES" />
+    <node id="LOVE" />
+    <node id="NIGHT" />
+    <node id="GHOSTLY FRIAR'S CLOSE CELL" />
+    <node id="EARTH" />
+    <node id="HOUSEHOLDS" />
+    <node id="VERSAL WORLD" />
+    <node id="GOD" />
+    <node id="LORD" />
+    <node id="CUPID" />
+    <node id="FRIAR LAWRENCE'S CELL" />
+    <node id="HOLY CHURCH" />
+    <node id="CAPULETS" />
+    <node id="TAVERN" />
+    <node id="MONTAGUES" />
+    <node id="ITALY" />
+    <node id="PRINCE" />
+    <node id="HOUSES" />
+    <node id="PAGE" />
+    <node id="PRINCE'S NEAR ALLY" />
+    <node id="CITIZENS" />
+    <node id="HEAVEN" />
+    <node id="HELL" />
+    <node id="CAPULET MEN" />
+    <node id="GENERAL DOOM" />
+    <node id="PHOEBUS" />
+    <node id="PHAETON" />
+    <node id="CIVIL NIGHT" />
+    <node id="LOVERS" />
+    <node id="DAY" />
+    <node id="LAWRENCE' CELL" />
+    <node id="BANISHMENT" />
+    <node id="DEATH" />
+    <node id="HOUSE OF MONTAGUE" />
+    <node id="HOUSE OF CAPULET" />
+    <node id="NIGHTINGALE" />
+    <node id="FORTUNE" />
+    <node id="LARK" />
+    <node id="SAINT PETER'S CHURCH" />
+    <node id="THURSDAY" />
+    <node id="LAWRENCE" />
+    <node id="MASS" />
+    <node id="BATTLEMENTS" />
+    <node id="ANCIENT VAULT" />
+    <node id="FATHER CAPULET" />
+    <node id="MOTHER" />
+    <node id="SERVINGMEN" />
+    <node id="FRIAR" />
+    <node id="CLOSET" />
+    <node id="MIXTURE" />
+    <node id="VAULT" />
+    <node id="CURFEW BELL" />
+    <node id="ANGELICA" />
+    <node id="HOUSEWIFE" />
+    <node id="SECOND COCK CROW" />
+    <node id="CAPULET FAMILY" />
+    <node id="MUSICIANS" />
+    <node id="FIRST MUSICIAN" />
+    <node id="SECOND MUSICIAN" />
+    <node id="THIRD MUSICIAN" />
+    <node id="CAPELS' MONUMENT" />
+    <node id="CAPELS" />
+    <node id="CHURCHYARD" />
+    <node id="TOMB" />
+    <node id="WATCHMEN" />
+    <node id="THIRD WATCH" />
+    <node id="FIRST WATCH" />
+    <node id="SECOND WATCH" />
+    <node id="TORCH" />
+    <node id="ROMEO'S LETTER" />
+    <node id="STOL'N MARRIAGE DAY" />
+    <node id="SLEEPING POTION" />
+    <node id="MONTAGUE FAMILY" />
+    <node id="CAPULET TOMB" />
+    <node id="WATCH" />
+    <node id="SIEGE OF GRIEF" />
+    <node id="BORROWED GRAVE" />
+    <node id="TYBALT'S DOOMSDAY" />
+    <node id="SECOND MARRIAGE" />
+    <edge source="ROMEO" target="MONTAGUE">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="ROMEO" target="LADY MONTAGUE">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="ROMEO" target="BALTHASAR">
+      <data key="d0">50.0</data>
+    </edge>
+    <edge source="ROMEO" target="MERCUTIO">
+      <data key="d0">44.0</data>
+    </edge>
+    <edge source="ROMEO" target="FRIAR LAWRENCE">
+      <data key="d0">45.0</data>
+    </edge>
+    <edge source="ROMEO" target="APOTHECARY">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="ROMEO" target="JULIET">
+      <data key="d0">76.0</data>
+    </edge>
+    <edge source="ROMEO" target="BENVOLIO">
+      <data key="d0">60.0</data>
+    </edge>
+    <edge source="ROMEO" target="SYCAMORE GROVE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ROMEO" target="MONTAGUE HOUSEHOLD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ROMEO" target="AURORA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ROMEO" target="SERVINGMAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ROMEO" target="ROSALINE">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="ROMEO" target="CAPULET">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ROMEO" target="VERONA">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="ROMEO" target="FEAST">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ROMEO" target="TYBALT">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="ROMEO" target="MASKERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ROMEO" target="NURSE">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="ROMEO" target="CHORUS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ROMEO" target="MEDLAR TREE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ROMEO" target="EAST">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ROMEO" target="WHITE-UPTURNED WOND'RING EYES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ROMEO" target="LOVE">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="ROMEO" target="NIGHT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ROMEO" target="GHOSTLY FRIAR'S CLOSE CELL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ROMEO" target="HOUSEHOLDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ROMEO" target="PARIS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="ROMEO" target="VERSAL WORLD">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="ROMEO" target="PRINCE'S NEAR ALLY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="ROMEO" target="HOUSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ROMEO" target="PRINCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ROMEO" target="HEAVEN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ROMEO" target="HELL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ROMEO" target="BANISHMENT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ROMEO" target="DEATH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ROMEO" target="MANTUA">
+      <data key="d0">36.0</data>
+    </edge>
+    <edge source="ROMEO" target="HOUSE OF MONTAGUE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ROMEO" target="LARK">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="ROMEO" target="LADY CAPULET">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="ROMEO" target="CAPULET FAMILY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ROMEO" target="CHURCHYARD">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="ROMEO" target="TOMB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ROMEO" target="CAPELS' MONUMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ROMEO" target="PAGE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ROMEO" target="MONTAGUE FAMILY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ROMEO" target="CAPULET TOMB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ROMEO" target="WATCH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="BENVOLIO">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="ABRAM">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="CAPULET">
+      <data key="d0">35.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="LADY MONTAGUE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="PRINCE ESCALUS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="VERONA">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="MONTAGUE HOUSEHOLD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="JULIET">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="PRINCE">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="PARIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONTAGUE" target="LADY CAPULET">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="LADY MONTAGUE" target="MONTAGUE HOUSEHOLD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BALTHASAR" target="VERONA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BALTHASAR" target="CAPELS' MONUMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BALTHASAR" target="FRIAR LAWRENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BALTHASAR" target="SECOND WATCH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="ESCALUS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="CAPULET'S HOUSE">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="VALENTINE">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="FEAST">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="BENVOLIO">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="QUEEN MAB">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="MASKERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="VENUS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="ABRAHAM CUPID">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="KING COPHETUA">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="ROSALINE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="NURSE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="CAPULETS">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="TAVERN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="TYBALT">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="PAGE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="PRINCE'S NEAR ALLY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="HOUSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="PRINCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MERCUTIO" target="PARIS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="JULIET">
+      <data key="d0">35.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="FRIAR JOHN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="EARTH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="HOUSEHOLDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="NURSE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="HOLY CHURCH">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="HOUSE OF MONTAGUE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="COUNTY PARIS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="THURSDAY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="CAPULET">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="ANCIENT VAULT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="CAPULET FAMILY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="HEAVEN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="WATCHMEN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="THIRD WATCH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="FIRST WATCH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="ROMEO'S LETTER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="STOL'N MARRIAGE DAY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRIAR LAWRENCE" target="SLEEPING POTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="APOTHECARY" target="MANTUA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="CAPULET">
+      <data key="d0">65.0</data>
+    </edge>
+    <edge source="JULIET" target="LADY CAPULET">
+      <data key="d0">54.0</data>
+    </edge>
+    <edge source="JULIET" target="NURSE">
+      <data key="d0">55.0</data>
+    </edge>
+    <edge source="JULIET" target="PARIS">
+      <data key="d0">24.0</data>
+    </edge>
+    <edge source="JULIET" target="VERONA">
+      <data key="d0">32.0</data>
+    </edge>
+    <edge source="JULIET" target="SUSAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="LADYBIRD">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="JULIET" target="LAMMASTIDE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JULIET" target="LAMMAS EVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JULIET" target="EARTHQUAKE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="FEAST">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="JULIET" target="CHORUS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JULIET" target="LOVE">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="JULIET" target="NIGHT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JULIET" target="HOUSEHOLDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JULIET" target="LORD">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="VERSAL WORLD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JULIET" target="FRIAR LAWRENCE'S CELL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JULIET" target="TYBALT">
+      <data key="d0">51.0</data>
+    </edge>
+    <edge source="JULIET" target="GENERAL DOOM">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="JULIET" target="PHOEBUS">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="JULIET" target="PHAETON">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="JULIET" target="CIVIL NIGHT">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="JULIET" target="LOVERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="DAY">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="JULIET" target="LAWRENCE' CELL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JULIET" target="HOUSE OF CAPULET">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JULIET" target="NIGHTINGALE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="JULIET" target="FORTUNE">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="JULIET" target="COUNTY PARIS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JULIET" target="LAWRENCE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="THURSDAY">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="JULIET" target="VENUS">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="JULIET" target="MASS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="JULIET" target="BATTLEMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JULIET" target="ANCIENT VAULT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="FATHER CAPULET">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JULIET" target="MOTHER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="COUNTY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JULIET" target="FRIAR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JULIET" target="CLOSET">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="MIXTURE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JULIET" target="VAULT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JULIET" target="CAPULET FAMILY">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="JULIET" target="CAPELS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JULIET" target="CAPELS' MONUMENT">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="JULIET" target="CHURCHYARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JULIET" target="PRINCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JULIET" target="CAPULET TOMB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JULIET" target="SIEGE OF GRIEF">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JULIET" target="BORROWED GRAVE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CAPULET" target="TYBALT">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="CAPULET" target="SAMPSON">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="CAPULET" target="GREGORY">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="CAPULET" target="PETER">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="CAPULET" target="PETRUCHIO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CAPULET" target="LADY CAPULET">
+      <data key="d0">36.0</data>
+    </edge>
+    <edge source="CAPULET" target="PRINCE ESCALUS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CAPULET" target="VERONA">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CAPULET" target="CAPULET HOUSEHOLD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CAPULET" target="PARIS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="CAPULET" target="CAPULET'S HOUSE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CAPULET" target="SERVINGMAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CAPULET" target="ROSALINE">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="CAPULET" target="COUNTY PARIS">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="CAPULET" target="LUCIO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET" target="HELENA">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET" target="MINE UNCLE CAPULET">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CAPULET" target="NURSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CAPULET" target="PRINCE">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="CAPULET" target="HOUSE OF CAPULET">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CAPULET" target="SAINT PETER'S CHURCH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CAPULET" target="THURSDAY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CAPULET" target="ANGELICA">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET" target="HOUSEWIFE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET" target="CURFEW BELL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CAPULET" target="FIRST SERVINGMAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET" target="SECOND SERVINGMAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET" target="CAPULET FAMILY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="CAPULET" target="HEAVEN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="CAPULET HOUSEHOLD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="NURSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="MANTUA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="PARIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="VERONA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="TYBALT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="HOUSE OF CAPULET">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="COUNTY PARIS">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="MOTHER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="CURFEW BELL">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="LADY CAPULET" target="CAPULET FAMILY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NURSE" target="DOVEHOUSE WALL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NURSE" target="PETER">
+      <data key="d0">24.0</data>
+    </edge>
+    <edge source="NURSE" target="PARIS">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="NURSE" target="GOD">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NURSE" target="TYBALT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NURSE" target="LAWRENCE' CELL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NURSE" target="CAPULET FAMILY">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="NURSE" target="MUSICIANS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PARIS" target="ESCALUS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="PARIS" target="FEAST">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="PARIS" target="COUNTY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PARIS" target="VERONA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PARIS" target="HOUSE OF CAPULET">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PARIS" target="CAPULET FAMILY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PARIS" target="HEAVEN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="PARIS" target="PAGE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PARIS" target="CHURCHYARD">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="PARIS" target="TOMB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PARIS" target="CAPELS' MONUMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PARIS" target="PRINCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="WILLIAM SHAKESPEARE" target="FOLGER SHAKESPEARE LIBRARY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FOLGER SHAKESPEARE LIBRARY" target="BARBARA A. MOWAT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FOLGER SHAKESPEARE LIBRARY" target="PAUL WERSTINE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FOLGER SHAKESPEARE LIBRARY" target="MICHAEL POSTON">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FOLGER SHAKESPEARE LIBRARY" target="REBECCA NILES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="VERONA" target="ESCALUS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="VERONA" target="CAPULET'S HOUSE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="VERONA" target="CAPULETS">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="VERONA" target="ITALY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="VERONA" target="MONTAGUES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="VERONA" target="TAVERN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="VERONA" target="PRINCE">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="VERONA" target="HOUSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="VERONA" target="CAPULET FAMILY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="VERONA" target="MONTAGUE FAMILY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="VERONA" target="CAPULET TOMB">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BENVOLIO" target="ABRAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BENVOLIO" target="TYBALT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENVOLIO" target="MONTAGUE HOUSEHOLD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENVOLIO" target="FEAST">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BENVOLIO" target="MASKERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENVOLIO" target="CAPULETS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BENVOLIO" target="PRINCE">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="BENVOLIO" target="HOUSES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ABRAM" target="SAMPSON">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ABRAM" target="GREGORY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ABRAM" target="MONTAGUE HOUSEHOLD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SAMPSON" target="GREGORY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="SAMPSON" target="CAPULET HOUSEHOLD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GREGORY" target="CAPULET HOUSEHOLD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TYBALT" target="PETRUCHIO">
+      <data key="d0">22.0</data>
+    </edge>
+    <edge source="TYBALT" target="CAPULET HOUSEHOLD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TYBALT" target="CAPULET'S HOUSE">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="TYBALT" target="VALENTIO">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="TYBALT" target="SIGNIOR VALENTIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TYBALT" target="CAPULETS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TYBALT" target="HOUSES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TYBALT" target="CITIZENS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="TYBALT" target="PRINCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TYBALT" target="CAPULET MEN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TYBALT" target="HOUSE OF CAPULET">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TYBALT" target="TYBALT'S DOOMSDAY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PETER" target="SECOND SERVINGMAN">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PETER" target="CAPULET FAMILY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PETER" target="MUSICIANS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="PETRUCHIO" target="TIBERIO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRIAR JOHN" target="MANTUA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PRINCE ESCALUS" target="FREE-TOWN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SERVINGMAN" target="FEAST">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="MARTINO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="ANSELME">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="VITRUVIO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="PLACENTIO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="VALENTINE">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="LIVIA">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="VALENTIO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="LUCIO">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="HELENA">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="SIGNIOR MARTINO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="COUNTY ANSELME">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="LADY WIDOW OF VITRUVIO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="SIGNIOR PLACENTIO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET'S HOUSE" target="SIGNIOR VALENTIO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="COUNTY PARIS" target="SAINT PETER'S CHURCH">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="COUNTY PARIS" target="THURSDAY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COUNTY PARIS" target="MUSICIANS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="COUNTY PARIS" target="CAPULET FAMILY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COUNTY PARIS" target="CHURCHYARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COUNTY PARIS" target="PAGE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="COUNTY PARIS" target="SECOND MARRIAGE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="VALENTINE" target="UTIO">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="FEAST" target="MASKERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FEAST" target="TORCHBEARERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FEAST" target="BOY WITH A DRUM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="COUNTY" target="FATHER CAPULET">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FIRST SERVINGMAN" target="SECOND SERVINGMAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FIRST SERVINGMAN" target="SUSAN GRIND">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FIRST SERVINGMAN" target="POTPAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FIRST SERVINGMAN" target="PORTER">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FIRST SERVINGMAN" target="NELL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FIRST SERVINGMAN" target="ANTHONY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FIRST SERVINGMAN" target="SUSAN GRINDSTONE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FIRST SERVINGMAN" target="THIRD SERVINGMAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SECOND SERVINGMAN" target="SUSAN GRIND">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSAN GRIND" target="PORTER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LUCENTIO" target="PENTECOST">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LOVE" target="CUPID">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CAPULETS" target="MONTAGUES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="PRINCE" target="BANISHMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PRINCE" target="CHURCHYARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PRINCE" target="ROMEO'S LETTER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PAGE" target="WATCH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FATHER CAPULET" target="SERVINGMEN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CURFEW BELL" target="SECOND COCK CROW">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="CAPULET FAMILY" target="FIRST MUSICIAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET FAMILY" target="SECOND MUSICIAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET FAMILY" target="THIRD MUSICIAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CAPULET FAMILY" target="MUSICIANS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CHURCHYARD" target="WATCHMEN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHURCHYARD" target="FIRST WATCH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHURCHYARD" target="TORCH">
+      <data key="d0">1.0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -8,8 +8,6 @@ You are a helpful assistant responding to questions about a dataset by synthesiz
 
 Generate a response of the target length and format that responds to the user's question, summarize all the reports from multiple analysts who focused on different parts of the dataset.
 
-Do not use any prior knowledge about Romeo and Juliet, use only the provided context and data.
-
 Note that the analysts' reports provided below are ranked in the **descending order of importance**.
 
 If you don't know the answer or if the provided reports do not contain sufficient information to provide an answer, just say so. Do not make anything up.

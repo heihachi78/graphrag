@@ -1133,3 +1133,81 @@ The story unfolds around the murder of Victoria Blackwood, owner and operator of
 
 - **Suspicious Activity and Alibis**  
   Dr. Eleanor Hartwell exhibited suspicious behavior on the night of the murder, including frequent late-night visits to the gallery when Victoria was absent. Her silver Mercedes was seen parked behind the gallery at the time of the murder, and she gave evasive responses about her whereabouts during
+2025-07-27 00:57:34.0350 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2025-07-27 00:57:39.0330 - INFO - graphrag.cli.query - Local Search Response:
+# Timeline of Events Surrounding Victoria Blackwood's Murder
+
+The story centers on the murder of Victoria Blackwood, the owner and operator of the Blackwood Art Gallery, located in the Arts District on Heritage Avenue. The timeline unfolds through the perspectives and testimonies of various individuals connected to the gallery and the local community.
+
+## Prior to the Murder
+
+Victoria Blackwood was deeply involved in managing the gallery, overseeing exhibitions, and handling financial matters. In the weeks leading up to her death, she was reportedly stressed due to personal and professional conflicts. These included a contentious divorce with her husband James Blackwood, who was attempting to claim part ownership of the gallery, and disputes with artists like Alexander Kane over artistic control and pricing. Additionally, Victoria was investigating financial irregularities within the gallery, particularly concerning her business partner, Dr. Eleanor Hartwell, who was acting suspiciously and had been asking about audits and financial records.
+
+Rebecca Hayes, owner of a competing gallery, had a bitter rivalry with Victoria, fueled by accusations of client and artist poaching. Despite this, Rebecca was confirmed to be at home during the time of the murder, providing her with an alibi.
+
+## The Night of the Murder
+
+On the evening of Victoria's murder, several key events occurred:
+
+- Victoria Blackwood decided to work alone in her studio adjacent to the gallery, requesting that the usual night security guard, David Chen, be given the evening off. This was unusual, as Victoria typically preferred having security present when working late.
+
+- Alexander Kane, the featured artist at the gallery, was working late in his studio nearby. His neighbor, Margaret Thornfield, confirmed that lights and music were on in his studio, but she did not see him directly, leaving his alibi uncertain.
+
+- Dr. Eleanor Hartwell was seen by Margaret Thornfield arriving at the gallery in her distinctive silver Mercedes around 9:15 PM. She appeared agitated and stayed at the gallery for an extended period, contradicting her earlier claim of being at her office until 11 PM.
+
+- David Chen, the night security guard, was at home studying for a midterm exam, an alibi supported by his roommates.
+
+- Sophia Martinez, Victoria's personal assistant and the current gallery director, claimed to be at home making phone calls during the time of the murder.
+
+## Discovery and Investigation
+
+Victoria Blackwood was found murdered in her studio the following morning by Sophia Martinez. The crime scene was secured at the Blackwood Gallery, and an extensive investigation was launched involving Detective Sarah Chen and Officer Marcus Rodriguez.
+
+Key developments during the investigation included:
+
+- Dr. Hartwell's suspicious behavior and presence at the gallery during the time of the murder raised significant suspicion. Forensics confirmed that the murder weapon, a letter opener, bore her fingerprints alongside
+2025-07-27 00:58:03.0572 - INFO - graphrag.cli.query - Global Search Response:
+# Timeline of Events Surrounding Victoria Blackwood’s Murder
+
+The timeline of the story unfolds around the murder of Victoria Blackwood, owner of the Blackwood Gallery, and the subsequent investigation and aftermath. Below is a detailed chronological summary based on the available data.
+
+---
+
+## Pre-Murder Period
+
+- **Financial Irregularities Discovered:**  
+  Victoria Blackwood uncovered approximately $200,000 in financial irregularities within the gallery’s accounts. These discrepancies included suspicions of offshore accounts and unrecorded cash transactions. Victoria planned to confront her trusted business partner, Dr. Eleanor Hartwell, about these findings. To protect the evidence, Victoria secured backup financial documents in a personal safe, indicating her awareness of potential internal threats [Data: Reports (2, 10, 0, 3)].
+
+- **Tensions Rise:**  
+  The discovery of financial misconduct heightened tensions in Victoria’s personal and professional life. Dr. Hartwell, who was later revealed to have a severe gambling addiction, was embezzling funds from the gallery over six months. This created a motive for conflict between the two [Data: Reports (2, 10, 4)].
+
+- **Other Key Individuals:**  
+  Victoria’s ex-husband, James Blackwood, was involved in a contentious divorce and attempted to claim partial ownership of the gallery. Although frustrated, he was dining with investors at the Meridian Hotel during the murder, providing him with an alibi [Data: Reports (2, 3, 10)].
+
+- **Gallery Environment:**  
+  The Blackwood Gallery, located in the Arts District on Heritage Avenue, was a central cultural hub. Victoria’s personal assistant, Sophia Martinez, was aware of the financial irregularities and suspicious activities within the gallery [Data: Reports (0, 7, 9)].
+
+---
+
+## Night of the Murder
+
+- **Victoria’s Murder:**  
+  Victoria Blackwood was murdered by stabbing with an ornate antique letter opener from her personal collection. The murder took place inside the Blackwood Gallery, which served as the crime scene. The murder weapon bore fingerprints of both Victoria and Dr. Eleanor Hartwell, linking key individuals to the scene [Data: Reports (2, 10, 0)].
+
+- **Dr. Eleanor Hartwell’s Suspicious Behavior:**  
+  Dr. Hartwell exhibited nervousness during interrogation and was seen frequently visiting the gallery late at night when Victoria was absent. Her silver Mercedes was spotted parked behind the gallery at the time of the murder, placing her at the scene [Data: Reports (2, 8, 11, 6)].
+
+- **Other Individuals’ Movements:**  
+  - **David Chen**, the night security guard and gallery curator, was unusually given the evening off. He claimed to be studying at home with roommates, providing an alibi, though his close relationship with Victoria made him a suspect [Data: Reports (2, 12, 9)].  
+  - **Alexander Kane**, an abstract artist with a strained professional relationship with Victoria, was working late in Victoria’s studio. Security footage confirmed his presence, making this a critical moment in the timeline [Data: Reports (6)].  
+  - **Sophia Martinez** discovered Victoria’s body the following morning and provided key information to investigators [Data: Reports (0, 7, 9)].
+
+- **Witness Observations:**  
+  Neighbor Margaret Thornfield reported seeing Dr. Hartwell’s car behind the gallery shortly after the murder, corroborating her presence near the crime scene [Data: Reports (6)].
+
+---
+
+## Investigation and Arrest
+
+- **Law Enforcement Response:**  
+  Detectives
